@@ -1,0 +1,54 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fullpage/react-fullpage": "^0.1.42",
+    "@mui/icons-material": "^5.15.8",
+    "@mui/material": "^5.15.8",
+    "@reduxjs/toolkit": "^2.1.0",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "@testing-library/user-event": "^14.5.2",
+    "ajv": "^8.12.0",
+    "aos": "^2.3.4",
+    "firebase": "^10.8.0",
+    "firebase-tools": "^13.1.0",
+    "form": "^0.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router": "^6.22.0",
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.1.8",
+    "use-history": "^1.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.8.0",
+    "npm-check-updates": "^16.14.14"
+  }
+}
